@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "douyin": {
+      "source": "xiaoyiv/douyin-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "428031b5921a452de5a95c75141c1648826f30070bf7627d2a1defbe8d448bcc"
+    },
+    "douyin-viral-content": {
+      "source": "vickyhan924/self-media-script",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/douyin-viral-content/SKILL.md",
+      "computedHash": "7b80933e00664f564998f877d51457099a76a4ad439736c58efa577a848bd8ff"
+    }
+  }
+}
